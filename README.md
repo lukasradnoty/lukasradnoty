@@ -1,3 +1,7 @@
+---
+title: My page title
+---
+
 ### Hi there 👋
 
 <!--
